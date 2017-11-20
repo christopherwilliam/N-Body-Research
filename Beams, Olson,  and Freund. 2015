@@ -1,0 +1,10 @@
+A FINITE ELEMENT BASED P3M METHOD FOR N-BODY PROBLEMS
+  https://arxiv.org/pdf/1503.08509.pdf
+This paper clearly describes current methods for N-Body simulations. 
+Four basic steps of P3M methods
+  1. assignment of charges to the mesh
+  2. solving for the smooth potential on the mesh
+  3. transferring the potential back to the charge locations
+  4. calculating the point-to-point (short-range) interactions
+  (Beams et al. 2015, p.4)
+Rsch-> Screen functions
